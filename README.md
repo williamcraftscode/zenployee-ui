@@ -1,6 +1,6 @@
-### 🚀 React + TypeScript + Vite Starter
+### 🚀 ACME | Zenployee React + TypeScript + Vite
 
-A modern, lightweight, and scalable starter template built with:
+### Built with:
 
     ⚛️ React
     🧱 TypeScript
@@ -11,7 +11,15 @@ A modern, lightweight, and scalable starter template built with:
     🧹 ESLint
 
 # To run the project
-First run the backend
+
+First run the backend, then:
 
 1. Run `npm i`
 2. Run `npm run dev`
+
+Notes
+
+- The app is mainly responsive
+- I've included a slide out menu, theme and dark mode
+- I've included paging
+- I've included some placeholder and creative extras :) (time allowing)
